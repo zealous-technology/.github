@@ -1,0 +1,13 @@
+{
+    "name": "Steve workflow name",
+    "description": "steve workfow description.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
